@@ -1,1 +1,1 @@
-# Prognoxoesnir cen samochodów
+# Prognozowanie cen samochodów
